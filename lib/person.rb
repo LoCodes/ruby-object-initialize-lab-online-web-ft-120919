@@ -1,4 +1,4 @@
 class Person
-  @Person
+  @name 
 end
   
